@@ -1,3 +1,3 @@
-# First Chapter
+# PKU? What's that?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Pokemon Unity (short PKUE) is an attempt to create a Pokemon fangame in Unity (hence the name). 
