@@ -1,3 +1,3 @@
 # Summary
 
-* [What is PKU?](chapter1.md)
+* [Chapter 1: Getting Started](chapter1.md)
