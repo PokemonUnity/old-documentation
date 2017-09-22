@@ -1,4 +1,4 @@
-<img alt="Tiled2PkUnity" src="/img/tiled2pkunity.svg"/>
+<img alt="Tiled2PkUnity" src="/img/tiled2pkunityhigh.png"/>
 
 ## Using Tiled2PkUnity
 Tiled2PkUnity is meant to replace the 'Pokemon Essentials' part of creating a map in Pokemon Unity.
