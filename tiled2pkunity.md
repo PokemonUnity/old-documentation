@@ -30,7 +30,7 @@ Arguments:
 >node tiled2pkunity.js [./Tilemap.JSON] [./Tileset.JSON] [Output.TXT] <Layer Number>
 
 ## Merging
-**Merging is currently broken and I do not recommend using it, please make a new layer for collision only and use that for your tilemap if it has multiple layers. If your tilemap does not use multiple layers it should be fine to make collision for your only layer without mergine.**
+**Merging is currently broken and I do not recommend using it, please make a new layer for collision only and use that for your tilemap if it has multiple layers. If your tilemap does not use multiple layers it should be fine to make collision for your only layer without merging.**
 
 In v1.5, it's possible to merge two collision maps as layers, this comes in handy when your transparent tiles have to have something under them.
 To merge tiles, you need to have at least two collision maps. To do so, add an argument to the end of your output filename that has the layer number you would like to generate. Generate all layers one at a time in seperate files (such as collision1.txt, collision2.txt, etc). 
