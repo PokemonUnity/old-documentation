@@ -9,8 +9,7 @@ Open the 'Pokemon Unity' folder as a project (The one alongside 'TOOLS' and the 
 
 # Debug Mode (Develop)
 
-**THIS FEATURE IS CURRENTLY UN-IMPLEMENTED, THIS SECTION IS A PLACEHOLDER**
-**THIS SECTION MAY ALSO BE MOVED TO A NEW FILE**
+**THIS FEATURE IS CURRENTLY UN-IMPLEMENTED, THIS SECTION IS A PLACEHOLDER AND MAY BE MOVED TO A NEW FILE SOON**
 
 In the develop branch, you can enable debug mode in the settings menu by pressing "QPWOEI" and pressing the Delete key. Enabling debug mode will put a permanent marker on your screen alongside disabling the save feature, it will also grant you access to every Pokemon in the database using the Pokedex along with No-Clipping mode. 
 
