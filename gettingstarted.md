@@ -1,6 +1,6 @@
 # Getting Started
 
-To use Pokemon Unity, you must have [Unity 2017.1](http://www.unity3d.com) installed. After installing Unity, you can then clone the branch you'd like to use \(master is for stable builds of the framework without any issues, develop is the WIP branch, which should only be used for testing or experimental purposes\). You can also install Visual Studio Code rather than Visual Studio Community as the full VS package is not needed and can take upwards to 4gb of space.
+To use Pokemon Unity, you must have [Unity 2017.4](http://www.unity3d.com) installed. After installing Unity, you can then clone the branch you'd like to use \(master is for stable builds of the framework without any issues, develop is the WIP branch, which should only be used for testing or experimental purposes\). You can also install Visual Studio Code rather than Visual Studio Community as the full VS package is not needed and can take upwards to 4gb of space.
 
 # Working in Unity
 
